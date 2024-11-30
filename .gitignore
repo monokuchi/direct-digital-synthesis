@@ -1,0 +1,16 @@
+
+#### STM32CubeIDE ####
+.metadata
+.settings
+[Rr]elease
+[Dd]ebug
+.launch
+
+
+#### Python ####
+__pycache__
+*venv/
+
+
+#### Misc ####
+lut.txt
