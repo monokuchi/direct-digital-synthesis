@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Custom_DACs")(type "KiCad")(uri "${KIPRJMOD}/CustomLibraries/Footprints/KiCad/Custom_DACs.pretty")(options "")(descr ""))
+  (lib (name "Custom_Memory")(type "KiCad")(uri "${KIPRJMOD}/CustomLibraries/Footprints/KiCad/Custom_Memory.pretty")(options "")(descr ""))
+  (lib (name "Custom_OpAmps")(type "KiCad")(uri "${KIPRJMOD}/CustomLibraries/Footprints/KiCad/Custom_OpAmps.pretty")(options "")(descr ""))
+  (lib (name "Custom_PowerModules")(type "KiCad")(uri "${KIPRJMOD}/CustomLibraries/Footprints/KiCad/Custom_PowerModules.pretty")(options "")(descr ""))
+)

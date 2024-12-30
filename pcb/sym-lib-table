@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Custom_DACs")(type "KiCad")(uri "${KIPRJMOD}/CustomLibraries/Symbols/KiCad/Custom_DACs.kicad_sym")(options "")(descr ""))
+  (lib (name "Custom_Memory")(type "KiCad")(uri "${KIPRJMOD}/CustomLibraries/Symbols/KiCad/Custom_Memory.kicad_sym")(options "")(descr ""))
+  (lib (name "Custom_OpAmps")(type "KiCad")(uri "${KIPRJMOD}/CustomLibraries/Symbols/KiCad/Custom_OpAmps.kicad_sym")(options "")(descr ""))
+  (lib (name "Custom_PowerModules")(type "KiCad")(uri "${KIPRJMOD}/CustomLibraries/Symbols/KiCad/Custom_PowerModules.kicad_sym")(options "")(descr ""))
+)
