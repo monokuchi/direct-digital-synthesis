@@ -4,4 +4,8 @@
   (lib (name "Custom_Memory")(type "KiCad")(uri "${KIPRJMOD}/CustomLibraries/Symbols/KiCad/Custom_Memory.kicad_sym")(options "")(descr ""))
   (lib (name "Custom_OpAmps")(type "KiCad")(uri "${KIPRJMOD}/CustomLibraries/Symbols/KiCad/Custom_OpAmps.kicad_sym")(options "")(descr ""))
   (lib (name "Custom_PowerModules")(type "KiCad")(uri "${KIPRJMOD}/CustomLibraries/Symbols/KiCad/Custom_PowerModules.kicad_sym")(options "")(descr ""))
+  (lib (name "Custom_Oscillators")(type "KiCad")(uri "${KIPRJMOD}/CustomLibraries/Symbols/KiCad/Custom_Oscillators.kicad_sym")(options "")(descr ""))
+  (lib (name "Custom_Connectors")(type "KiCad")(uri "${KIPRJMOD}/CustomLibraries/Symbols/KiCad/Custom_Connectors.kicad_sym")(options "")(descr ""))
+  (lib (name "Custom_LineDrivers")(type "KiCad")(uri "${KIPRJMOD}/CustomLibraries/Symbols/KiCad/Custom_LineDrivers.kicad_sym")(options "")(descr ""))
+  (lib (name "Custom_LEDs")(type "KiCad")(uri "${KIPRJMOD}/CustomLibraries/Symbols/KiCad/Custom_LEDs.kicad_sym")(options "")(descr ""))
 )
