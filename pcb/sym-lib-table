@@ -8,4 +8,5 @@
   (lib (name "Custom_Connectors")(type "KiCad")(uri "${KIPRJMOD}/CustomLibraries/Symbols/KiCad/Custom_Connectors.kicad_sym")(options "")(descr ""))
   (lib (name "Custom_LineDrivers")(type "KiCad")(uri "${KIPRJMOD}/CustomLibraries/Symbols/KiCad/Custom_LineDrivers.kicad_sym")(options "")(descr ""))
   (lib (name "Custom_LEDs")(type "KiCad")(uri "${KIPRJMOD}/CustomLibraries/Symbols/KiCad/Custom_LEDs.kicad_sym")(options "")(descr ""))
+  (lib (name "Custom_MOSFETs")(type "KiCad")(uri "${KIPRJMOD}/CustomLibraries/Symbols/KiCad/Custom_MOSFETs.kicad_sym")(options "")(descr ""))
 )
