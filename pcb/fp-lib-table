@@ -9,4 +9,7 @@
   (lib (name "Custom_LineDrivers")(type "KiCad")(uri "${KIPRJMOD}/CustomLibraries/Footprints/KiCad/Custom_LineDrivers.pretty")(options "")(descr ""))
   (lib (name "Custom_LEDs")(type "KiCad")(uri "${KIPRJMOD}/CustomLibraries/Footprints/KiCad/Custom_LEDs.pretty")(options "")(descr ""))
   (lib (name "Custom_MOSFETs")(type "KiCad")(uri "${KIPRJMOD}/CustomLibraries/Footprints/KiCad/Custom_MOSFETs.pretty")(options "")(descr ""))
+  (lib (name "Custom_Encoders")(type "KiCad")(uri "${KIPRJMOD}/CustomLibraries/Footprints/KiCad/Custom_Encoders.pretty")(options "")(descr ""))
+  (lib (name "Custom_Inductors")(type "KiCad")(uri "${KIPRJMOD}/CustomLibraries/Footprints/KiCad/Custom_Inductors.pretty")(options "")(descr ""))
+  (lib (name "Custom_Potentiometers")(type "KiCad")(uri "${KIPRJMOD}/CustomLibraries/Footprints/KiCad/Custom_Potentiometers.pretty")(options "")(descr ""))
 )
