@@ -12,4 +12,7 @@
   (lib (name "Custom_Encoders")(type "KiCad")(uri "${KIPRJMOD}/CustomLibraries/Footprints/KiCad/Custom_Encoders.pretty")(options "")(descr ""))
   (lib (name "Custom_Inductors")(type "KiCad")(uri "${KIPRJMOD}/CustomLibraries/Footprints/KiCad/Custom_Inductors.pretty")(options "")(descr ""))
   (lib (name "Custom_Potentiometers")(type "KiCad")(uri "${KIPRJMOD}/CustomLibraries/Footprints/KiCad/Custom_Potentiometers.pretty")(options "")(descr ""))
+  (lib (name "Custom_TVS")(type "KiCad")(uri "${KIPRJMOD}/CustomLibraries/Footprints/KiCad/Custom_TVS.pretty")(options "")(descr ""))
+  (lib (name "Custom_Switches")(type "KiCad")(uri "${KIPRJMOD}/CustomLibraries/Footprints/KiCad/Custom_Switches.pretty")(options "")(descr ""))
+  (lib (name "Custom_Jumpers")(type "KiCad")(uri "${KIPRJMOD}/CustomLibraries/Footprints/KiCad/Custom_Jumpers.pretty")(options "")(descr ""))
 )
