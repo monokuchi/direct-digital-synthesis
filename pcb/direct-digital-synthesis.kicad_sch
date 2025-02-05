@@ -30528,7 +30528,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Coaxial:SMA_Molex_73251-1153_EdgeMount_Horizontal"
 			(at 1038.86 604.52 0)
 			(effects
 				(font
